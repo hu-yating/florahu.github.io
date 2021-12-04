@@ -14,7 +14,7 @@ company:
   name: Eindhoven University of Technology
   url: "https://www.tue.nl"
 
-resume: "files/resume.pdf"
+#resume: "files/resume.pdf"
 
 # a summary about you
 summary: "I am a double degree master student in Computer Science and Engineering (Eindhoven University of Technology) and ICT Innovation (KTH Royal Institute of Technology) as part of EIT Digital. My specialisation is in Data Science. I have obtained my bachelor's degree in Data Science. I am interested in data mining, statistical analysis, data visualisation, machine learning, and artificial intelligence."
