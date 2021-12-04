@@ -1,4 +1,4 @@
-baseURL: https://hugo-toha.github.io
+baseURL: https://hu-yating.github.io
 
 languageCode: en-us
 title: "Flora's Blog"
@@ -51,7 +51,7 @@ params:
     favicon: /images/site/favicon.png
 
   # GitHub repo of your site
-  gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
+  gitRepo: https://github.com/hu-yating/hu-yating.github.io
   # Default branch of your Git repo
   gitBranch: source
 
@@ -62,7 +62,7 @@ params:
       enable: true
     # Enable and configure blog posts
     blog:
-      enable: false
+      enable: true
       # Share post on different social media
       shareButtons:
         facebook: true
