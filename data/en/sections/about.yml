@@ -1,0 +1,38 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: MSc Data Science Student
+# your company information
+company:
+  name: Eindhoven University of Technology
+  url: "https://www.tue.nl"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/resume.pdf"
+
+# a summary about you
+summary: 'I am a double degree master student in Computer Science and Engineering (Eindhoven University of Technology) and ICT Innovation (KTH Royal Institute of Technology) as part of EIT Digital. My specialisation is in Data Science. I have obtained my bachelor degree in Data Science. I am interested in data visualisation, machine learning, and artificial intelligence.'
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/hu-yating"
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+- name: Leadership
+  percentage: 100
+  color: blue
+- name: Team Work
+  percentage: 100
+  color: yellow
