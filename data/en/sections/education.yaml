@@ -69,7 +69,7 @@ degrees:
     - name: Foundations of Data Mining
       achieved: 3.75
       outOf: 4
-     - name: Applications of Data Science for Software Engineering
+    - name: Applications of Data Science for Software Engineering
       achieved: 3.75
       outOf: 4
   extracurricularActivities: #(optional)
