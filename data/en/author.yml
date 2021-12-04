@@ -2,7 +2,7 @@
 name: "Ya Ting (Flora) Hu"
 nickname: "Flora"
 # greeting message before your name. it will default to "Hi! I am" if not provided
-greeting: "Hi, I am Ya Ting, but you can call me"
+greeting: "Hi, I am Ya Ting, but call me"
 image: "images/author/john.png"
 # give your some contact information. they will be used in the footer
 contactInfo:

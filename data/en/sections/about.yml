@@ -8,7 +8,7 @@ section:
   template: sections/about.html
 
 # your designation
-designation: MSc Data Science Student
+designation: M.Sc. Data Science Student
 # your company information
 company:
   name: Eindhoven University of Technology
@@ -37,13 +37,19 @@ socialLinks:
 softSkills:
 - name: Diligent 
   percentage: 100
-  color: pink
+  color: orange
 - name: Inquisitive
   percentage: 100
-  color: pink
+  color: orange
 - name: Analytical
   percentage: 100
-  color: pink
+  color: orange
 - name: Detail-Oriented
+  percentage: 100
+  color: pink
+- name: Problem-Solver
+  percentage: 100
+  color: pink
+- name: Critical
   percentage: 100
   color: pink

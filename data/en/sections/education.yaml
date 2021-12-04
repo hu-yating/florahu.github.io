@@ -16,10 +16,6 @@ degrees:
   institution:
     name: KTH Royal Institute of Technology
     url: "https://www.kth.se/en"
-  grade: 
-    scale: CGPA
-    achieved: 5
-    outOf: 5
   takenCourses: #(optional)
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
     showGrades: false
@@ -40,10 +36,6 @@ degrees:
   institution:
     name: Eindhoven University of Technology
     url: "https://www.tue.nl/en/"
-  grade: #(optional)
-    scale: CGPA
-    achieved: 8.5
-    outOf: 10
   takenCourses: #(optional)
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
     showGrades: false
@@ -73,22 +65,18 @@ degrees:
       achieved: 3.75
       outOf: 4
   extracurricularActivities: #(optional)
-  - Participant in Summer School Internet of Things (IoT) Platforms for Industry 4.0 at Technical University of Munich.
+  - Joined Summer School Internet of Things (IoT) Platforms for Industry 4.0 at Technical University of Munich.
   - Student Representative for the EIT cohort Eindhoven 2020/21.
   publications: #(optional)
   - title: Visualizing Dynamic Data with Heat Triangles
     url: "https://link.springer.com/article/10.1007%2Fs12650-021-00782-y"
 
-- name: B.Sc. Data Science
+- name: B.Sc. Data Science (Cum Laude)
   icon: fa-graduation-cap
   timeframe: 2017-2020
   institution:
     name: Eindhoven University of Technology | Tilburg University
     url: "https://www.tue.nl/en/"
-  grade: 
-    scale: GPA
-    achieved: 5
-    outOf: 5
   takenCourses: #(optional)
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
     showGrades: false
