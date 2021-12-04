@@ -1,0 +1,136 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: M.Sc. in ICT Innovation
+  icon: fa-university
+  timeframe: 2020-2022
+  institution:
+    name: KTH Royal Institute of Technology
+    url: "https://www.kth.se/en"
+  grade: 
+    scale: CGPA
+    achieved: 5
+    outOf: 5
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: false
+    courses:
+    - name: Data-Intensive Computing
+      achieved: 3.75
+      outOf: 4
+    - name: Data Mining
+      achieved: 3.80
+      outOf: 4
+    - name: Innovation Study Project
+      achieved: 3.5
+      outOf: 4
+
+- name: M.Sc. in Computer Science and Engineering
+  icon: fa-university 
+  timeframe: 2020-2022
+  institution:
+    name: Eindhoven University of Technology
+    url: "https://www.tue.nl/en/"
+  grade: #(optional)
+    scale: CGPA
+    achieved: 8.5
+    outOf: 10
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: false
+    courses:
+    - name: Advanced Algorithms
+      achieved: 3.75
+      outOf: 4
+    - name: Machine Learning and Engineering
+      achieved: 3.80
+      outOf: 4
+    - name: Big Data Management
+      achieved: 3.5
+      outOf: 4
+    - name: Foundations of Process Mining
+      achieved: 3.75
+      outOf: 4
+    - name: Applied Statistics 
+      achieved: 3.75
+      outOf: 4
+    - name: Visual Analytics
+      achieved: 3.75
+      outOf: 4
+    - name: Foundations of Data Mining
+      achieved: 3.75
+      outOf: 4
+     - name: Applications of Data Science for Software Engineering
+      achieved: 3.75
+      outOf: 4
+  extracurricularActivities: #(optional)
+  - Participant in Summer School Internet of Things (IoT) Platforms for Industry 4.0 at Technical University of Munich.
+  - Student Representative for the EIT cohort Eindhoven 2020/21.
+  publications: #(optional)
+  - title: Visualizing Dynamic Data with Heat Triangles
+    url: "https://link.springer.com/article/10.1007%2Fs12650-021-00782-y"
+
+- name: B.Sc. Data Science
+  icon: fa-graduation-cap
+  timeframe: 2017-2020
+  institution:
+    name: Eindhoven University of Technology | Tilburg University
+    url: "https://www.tue.nl/en/"
+  grade: 
+    scale: GPA
+    achieved: 5
+    outOf: 5
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: false
+    courses:
+    - name: Multivariate Data Analysis
+      achieved: 3.75
+      outOf: 4
+    - name: Data Structures
+      achieved: 3.80
+      outOf: 4
+    - name: Cognitive Science
+      achieved: 3.5
+      outOf: 4
+    - name: Design for Games and Play I
+      achieved: 3.75
+      outOf: 4
+    - name: Mathematical Analysis 1 and 2
+      achieved: 3.75
+      outOf: 4
+    - name: Process Theory
+      achieved: 3.75
+      outOf: 4
+    - name: Business Analytics
+      achieved: 3.75
+      outOf: 4
+    - name: Data Science Research Methods
+      achieved: 3.75
+      outOf: 4
+    - name: Statistical Computing
+      achieved: 3.75
+      outOf: 4
+    - name: Linear Optimization
+      achieved: 3.75
+      outOf: 4
+    - name: Linear Algebra
+      achieved: 3.75
+      outOf: 4
+    - name: Law and Data Science
+      achieved: 3.75
+      outOf: 4
+  extracurricularActivities: #(optional)
+  - Organised and promoted the Data Science Summit 2019 with 350 visitors to showcase interesting scientific research done in close collaboration with and inspired by the industry at the Eindhoven Artificial Intelligence Systems Institute (EAISI), previously known as Data Science Center Eindhoven (DSCE).
+  publications: #(optional)
+  - title: Visualizing Dynamic Graphs with Heat Triangles
+    url: "https://dl.acm.org/doi/abs/10.1145/3430036.3430053"

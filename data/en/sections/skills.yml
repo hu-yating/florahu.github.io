@@ -13,14 +13,30 @@ section:
 skills:
 - name: Python
   logo: "/images/sections/skills/python.png"
-  summary: "e.g. Pandas, NumPy, Plotly, TensorFlow, SciKit-Learn "
-  url: "https://kubernetes.io/"
+  summary: "e.g. Pandas, NumPy, SciPy, TensorFlow, SciKit-Learn, StatsModels, Plotly, Matplotlib, Seaborn, Dash "
+  url: "https://www.python.org/"
 
 - name: R Programming
   logo: "/images/sections/skills/R.png"
-  summary: "Mostly for statistical analysis"
-  url: "https://golang.org/"
+  summary: "Mainly for statistical analysis"
+  url: "https://www.r-project.org/"
 
-- name: Cloud Computing
-  logo: "/images/sections/skills/cloud.png"
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+- name: SQL
+  logo: "/images/sections/skills/sql.png"
+  summary: "e.g. Oracle SQL Developer, BigQuery"
+  url: "https://www.oracle.com/"
+
+- name: SAS
+  logo: "/images/sections/skills/sas.png"
+  summary: "Mainly for statistical analysis"
+  url: "https://www.sas.com/en_us/home.html"
+
+- name: Tableau
+  logo: "/images/sections/skills/tableau.png"
+  summary: "Mainly for data visualisation"
+  url: "https://www.tableau.com/"
+
+- name: Microsoft Excel
+  logo: "/images/sections/skills/excel.png"
+  summary: "e.g. Power Query"
+  url: "https://www.microsoft.com/en-us/microsoft-365/microsoft-office"

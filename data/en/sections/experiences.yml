@@ -22,8 +22,7 @@ experiences:
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
-    responsibilities:
-    - 
+    # responsibilities: 
 
 - company:
     name: A.S. Watson
@@ -34,17 +33,26 @@ experiences:
   - designation: CRM Data-Analist 
     start: August 2021
     end: Nov 2021
-    responsibilities:
-    - 
+    # responsibilities: 
 
 - company:
     name: Eindhoven University of Technology 
     url: "https://www.tue.nl"
     location: Eindhoven | The Netherlands
-    overview: ...
+    overview: Department of Mathematics and Computer Science
+  positions:
+  - designation: Teaching Assistant  
+    start: Sep 2018
+    end: May 2021
+    # responsibilities: 
+
+- company:
+    name: Eindhoven University of Technology 
+    url: "https://www.tue.nl"
+    location: Eindhoven | The Netherlands
+    overview: Department of the Built Environment
   positions:
   - designation: Research Assistent  
-    start: August 2021
-    end: Nov 2021
-    responsibilities:
-    - 
+    start: Sep 2019
+    end: Apr 2020
+    # responsibilities:
