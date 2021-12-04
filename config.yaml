@@ -78,11 +78,11 @@ params:
 
     # Enable & configure "Notes" features
     notes:
-      enable: false
+      enable: true
 
     # Enable comment feature. There, should be only one of them.
     comment:
-      enable: false
+      enable: true
       disqus:
         shortName: toha-example-site
       # valine:
