@@ -27,9 +27,9 @@ socialLinks:
 - name: LinkedIn
   icon: "fab fa-linkedin"
   url: "https://www.linkedin.com/in/hu-yating"
-- name: Email
-  icon: "fas fa-envelope"
-  url: "hu-yating@pm.me"
+#- name: Email
+#  icon: "fas fa-envelope"
+#  url: "hu-yating@pm.me"
 
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
