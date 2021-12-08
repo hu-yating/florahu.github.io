@@ -11,18 +11,19 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Royal Philips
+    name: Philips
     url: "https://www.philips.com"
     location: Eindhoven | The Netherlands
     # company overview
-    overview: At Philips, our purpose is to improve people’s health and well-being through meaningful innovation. We aim to improve 2.5 billion lives per year by 2030, including 400 million in underserved communities. 
+    overview: At Philips, our purpose is to improve people's health and well-being through meaningful innovation. We aim to improve 2.5 billion lives per year by 2030, including 400 million in underserved communities. 
   positions:
   - designation: R&D | Data Science & AI
     start: Dec 2021
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
-    # responsibilities: 
+    responsibilities:
+    - Research on motion-based delirium detection
 
 - company:
     name: A.S. Watson
@@ -33,7 +34,11 @@ experiences:
   - designation: CRM Data-Analist 
     start: August 2021
     end: Nov 2021
-    # responsibilities: 
+    responsibilities:
+    - Performing analyses and presenting results to various stakeholders within the organization;
+    - Giving initiation sessions about Tableau to other departments and new colleagues;
+    - Helping to update certain recurring reports;
+    - Making improvements in e.g. automation of reports, efficiency of processes; 
 
 - company:
     name: Eindhoven University of Technology 
@@ -44,15 +49,17 @@ experiences:
   - designation: Teaching Assistant  
     start: Sep 2018
     end: May 2021
-    # responsibilities: 
+    responsibilities: 
+    - Collaborated with instructor to teach and grade coursework, and answer 150+ students’ questions for the courses Calculus B, Logic and Set Theory, Programming in Python, Data Science Research Methods (R Programming)
 
 - company:
     name: Eindhoven University of Technology 
-    url: "https://www.tue.nl"
+    url: "https://www.tue.nl/en/our-university/departments/built-environment/research/"
     location: Eindhoven | The Netherlands
     overview: Department of the Built Environment
   positions:
   - designation: Research Assistent  
     start: Sep 2019
     end: Apr 2020
-    # responsibilities:
+    responsibilities:
+    - Conducted research through econometric analysis combined with machine learning techniques using Python, R, and Stata with main focus on Real Estate Management and Development
