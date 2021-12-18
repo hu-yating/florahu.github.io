@@ -54,4 +54,22 @@ projects:
   summary: An overview-based interactive visualization tool for temporally long dynamic graph sequences is is implemented and applied on US domestic flight data.
   tags: ["academic", "bachelor-thesis"]
 
+- name: Business Process Intelligence 2018
+  logo: /images/sections/projects/triangle.png
+  role: Contributor
+  timeline: "February 2019 - April 2019"
+  url: files/ProcessMining.pdf
+  summary: The goal of this project was to predict the remaining cycle time of a request into an administrative system. Different models were designed and tested on the datasets provided by the BPI Challenges 2012 and 2019. 
+  tags: ["academic", "process-mining"]
+
+- name: Pharos - Guided by Light
+  logo: /images/sections/projects/pharos.png
+  role: Contributor
+  timeline: "February 2021 - July 2021"
+  url: files/pharos.pdf
+  summary: In our project instead of looking for problems, we looked for opportunities! The opportunity that we, team Pharos, jump on is improving the overall festival experience. One big annoyance festival visitors experience, is standing in long lines to, for example, get food or drinks. We created a festival bracelet that will not only help with that, it will also increase the overall festival experience! The bracelet can connect to the stage lighting which increases the immersive experience, because people are part of the show. When you want to go for a drink you can tap on your bracelet and, with the aid of color, it will guide you to the quickest bar. After ordering your drink you can then easily pay using the bracelet.
+  tags: ["academic"]
+
+
+
 
