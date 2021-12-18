@@ -46,3 +46,12 @@ projects:
   summary: American Airlines Twitter team performance analysis
   tags: ["academic"]
 
+- name: Visualizing Dynamic Graphs with Heat Triangles
+  logo: /images/sections/projects/triangle.png
+  role: Creator
+  timeline: "February 2020 - June 2020"
+  url: https://dl.acm.org/doi/abs/10.1145/3430036.3430053
+  summary: An overview-based interactive visualization tool for temporally long dynamic graph sequences is is implemented and applied on US domestic flight data.
+  tags: ["academic", "bachelor-thesis"]
+
+
