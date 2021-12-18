@@ -29,3 +29,12 @@ projects:
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: Finding textually similar documents, discovery of frequent itemsets and assocation rules, mining data streams, graph spectra, and k-way graph partitioning using JaBeJa
   tags: ["academic", "data-mining"]
+
+- name: Steady the Flow
+  logo: 
+  role: Contributor
+  timeline: "September 2019 - November 2019"
+  url: files/resume.pdf
+  summary: Analysis of Den Bosch waste water treatment plant
+  tags: ["academic"]
+
