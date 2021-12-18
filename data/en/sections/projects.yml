@@ -51,11 +51,11 @@ projects:
   role: Creator
   timeline: "February 2020 - June 2020"
   url: https://dl.acm.org/doi/abs/10.1145/3430036.3430053
-  summary: An overview-based interactive visualization tool for temporally long dynamic graph sequences is is implemented and applied on US domestic flight data.
+  summary: An overview-based interactive visualization tool for temporally long dynamic graph sequences is implemented and applied on US domestic flight data.
   tags: ["academic", "bachelor-thesis"]
 
 - name: Business Process Intelligence 2018
-  logo: /images/sections/projects/triangle.png
+  logo: /images/sections/projects/bpi.png
   role: Contributor
   timeline: "February 2019 - April 2019"
   url: files/ProcessMining.pdf
@@ -68,6 +68,14 @@ projects:
   timeline: "February 2021 - July 2021"
   url: files/pharos.pdf
   summary: In our project instead of looking for problems, we looked for opportunities! The opportunity that we, team Pharos, jump on is improving the overall festival experience. One big annoyance festival visitors experience, is standing in long lines to, for example, get food or drinks. We created a festival bracelet that will not only help with that, it will also increase the overall festival experience! The bracelet can connect to the stage lighting which increases the immersive experience, because people are part of the show. When you want to go for a drink you can tap on your bracelet and, with the aid of color, it will guide you to the quickest bar. After ordering your drink you can then easily pay using the bracelet.
+  tags: ["academic"]
+
+- name: Big Data Management
+  logo: /images/sections/projects/spark.png
+  role: Contributor
+  timeline: "April 2021 - July 2021"
+  url: files/bigdata.pdf
+  summary: In this project we use the Spark platform for processing massive data and discovering minimal non-trivial functional dependencies and (soft) functional dependencies.
   tags: ["academic"]
 
 
