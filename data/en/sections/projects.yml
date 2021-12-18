@@ -27,5 +27,5 @@ projects:
   timeline: "November 2021 - Present"
   repo: https://github.com/hu-yating/ID2222DataMining # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Five small projects for the course Data Mining
+  summary: Finding textually similar documents, discovery of frequent itemsets and assocation rules, mining data streams, graph spectra, and k-way graph partitioning using JaBeJa
   tags: ["academic", "data-mining"]
