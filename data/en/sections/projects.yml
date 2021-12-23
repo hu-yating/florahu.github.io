@@ -79,7 +79,7 @@ projects:
   tags: ["academic"]
 
 - name: Data Intensive Computing
-  logo: /images/sections/projects/bitcoin.png
+  logo: /images/sections/projects/bitcoin.jpg
   role: Contributor
   timeline: "Augustus 2021 - October 2021"
   repo: https://github.com/hu-yating/DataIntensiveComputing # If your project is a public repo on GitHub, then provide this link. it will show star count.
