@@ -9,5 +9,5 @@ openGraph:
   title: Blog of Ya Ting Hu
   type: website
   description: Portfolio and blog of Ya Ting Hu
-  image: images/site/main-logo.png
+  image: /images/site/main-logo.png
   url: https://hu-yating.github.io/
