@@ -8,16 +8,16 @@ section:
   template: sections/about.html
 
 # your designation
-designation: M.Sc. Data Science Student
+designation: Associate Technology Consultant
 # your company information
 company:
-  name: Eindhoven University of Technology
-  url: "https://www.tue.nl"
+  name: Microsoft
+  url: "https://www.microsoft.com/en-us/industrysolutions?activetab=pivot1%3aprimaryr8"
 
 #resume: "files/resume.pdf"
 
 # a summary about you
-summary: "I am a double degree master student in Computer Science and Engineering (Eindhoven University of Technology) and ICT Innovation (KTH Royal Institute of Technology) as part of EIT Digital. My specialisation is in Data Science. I have obtained my bachelor's degree in Data Science. I am interested in data mining, statistical analysis, data visualisation, machine learning, and artificial intelligence."
+summary: "I am a Associate Technology Consultant at Microsoft based in The Netherlands. I obtained my double degree masters in Computer Science and Engineering (Eindhoven University of Technology) and ICT Innovation (KTH Royal Institute of Technology) as part of EIT Digital. My specialisation is in Data Science. I have obtained my bachelor's degree in Data Science. I am interested in digital innovation to transform the future for the better."
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
