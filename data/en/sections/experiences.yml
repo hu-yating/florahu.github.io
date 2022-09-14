@@ -11,6 +11,27 @@ section:
 # Your experiences
 experiences:
 - company:
+    name: Microsoft
+    url: "https://www.microsoft.com/en-us/industrysolutions?activetab=pivot1%3aprimaryr8"
+    location: Schiphol | The Netherlands
+    # company overview
+    overview: Industry Solutions is a global organization of over 16,000 strategic sellers, industry experts, elite engineers, and world-class architects, consultants, and delivery experts who work together to bring Microsoft’s mission of empowerment—and cutting-edge technology—to life for our customers and partners. We are on the front lines of innovation, working side-by-side with customers to drive value across the entirety of their digital transformation journey.
+  positions:
+  - designation: Associate Consultant
+    start: Sept 2022
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Participates and leads gathering of customer requirements and constraints.
+    - Participates in project planning and contributes to risks, issues, assumptions and dependencies.
+    - Communicates the business value of planned technology uses and deployments.
+    - Contributes to, and delivers against, a Work Breakdown Structure.
+    - Makes use of, and maintains, Microsoft's Intellectual Property; creates new materials when needed.
+    - Learns and make us of modern technologies, services or approaches based on business demands and industry trends.
+    - Participates and contributes to internal/external community events.
+    - Engages in mentor/mentee relationships to enhance Microsoft's professional/technical capabilities.
+- company:
     name: Philips
     url: "https://www.philips.com"
     location: Eindhoven | The Netherlands
@@ -19,6 +40,7 @@ experiences:
   positions:
   - designation: Biomedical Data Scientist Intern
     start: Dec 2021
+    end: Sept 2022
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
