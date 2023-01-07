@@ -92,7 +92,7 @@ projects:
   role: Contributor
   timeline: "February 2019 - April 2019"
   #repo: https://github.com/hu-yating/DataIntensiveComputing # If your project is a public repo on GitHub, then provide this link. it will show star count.
-  url: https://diverse-it.blogspot.com/""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  url: https://diverse-it.blogspot.com/  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: HoodFood, a comparison tool which allows customers to compare prices between groceries easily, started by Diverse IT
   tags: ["academic"]
 
