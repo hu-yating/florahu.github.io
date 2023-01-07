@@ -87,7 +87,7 @@ projects:
   summary: Two labs regarding HDFS, HBase, Hadoop, MapReduce, Spark, Spark SQL, Spark Streaming, Structured Streaming, GraphX and project regarding real-time Bitcoin price predictions with news sentiment analysis
   tags: ["academic"]
 
-  - name: HoodFood by Diverse IT
+- name: HoodFood by Diverse IT
   logo: /images/sections/projects/hoodfood.png
   role: Contributor
   timeline: "February 2019 - April 2019"
