@@ -27,6 +27,9 @@ socialLinks:
 - name: LinkedIn
   icon: "fab fa-linkedin"
   url: "https://www.linkedin.com/in/hu-yating"
+- name: Instagram
+  icon: "fab fa-instagram"
+  url: "https://www.instagram.com/flora.yt/"  
 #- name: Email
 #  icon: "fas fa-envelope"
 #  url: "hu-yating@pm.me"
