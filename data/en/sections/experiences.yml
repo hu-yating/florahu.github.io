@@ -38,7 +38,7 @@ experiences:
     # company overview
     overview: At Philips, our purpose is to improve people's health and well-being through meaningful innovation. We aim to improve 2.5 billion lives per year by 2030, including 400 million in underserved communities. 
   positions:
-  - designation: Biomedical Data Scientist Intern
+  - designation: Data Scientist Intern
     start: Dec 2021
     end: Sept 2022
     # don't provide end date if you are currently working there. It will be replaced by "Present"

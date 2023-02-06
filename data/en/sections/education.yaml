@@ -10,7 +10,7 @@ section:
   # hideTitle: true
 
 degrees:
-- name: M.Sc. in ICT Innovation
+- name: M.Sc. in ICT Innovation (GPA 9/10)
   icon: fa-university
   timeframe: 2020-2022
   institution:
@@ -30,7 +30,7 @@ degrees:
       achieved: 3.5
       outOf: 4
 
-- name: M.Sc. in Computer Science and Engineering
+- name: M.Sc. in Computer Science and Engineering (GPA 9/10)
   icon: fa-university 
   timeframe: 2020-2022
   institution:
