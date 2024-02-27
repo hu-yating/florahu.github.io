@@ -34,7 +34,7 @@ socialLinks:
   icon: "fab fa-flickr"  
   url: "https://www.flickr.com/photos/hu-yating/"
 
-# your soft skills
+# soft skills
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange
 softSkills:
