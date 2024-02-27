@@ -33,6 +33,9 @@ socialLinks:
 - name: Flickr
   icon: "fab fa-flickr"  
   url: "https://www.flickr.com/photos/hu-yating/"
+- name: Research Gate
+  icon: "fab fa-researchgate"
+  url: "https://www.researchgate.net/profile/Ya-Ting-Hu"
 
 # soft skills
 # give the percentage between 50 to 100 with 5 intervals.
