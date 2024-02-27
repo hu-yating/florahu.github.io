@@ -33,9 +33,6 @@ socialLinks:
 - name: Flickr
   icon: "fab fa-flickr"  
   url: "https://www.flickr.com/photos/hu-yating/"
-#- name: Email
-#  icon: "fas fa-envelope"
-#  url: "hu-yating@pm.me"
 
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
