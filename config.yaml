@@ -58,6 +58,9 @@ params:
 
   # Configure various features of this theme
   features:
+
+    darkMode:
+      enable: true
     # Enable and configure portfolio
     portfolio:
       enable: true
