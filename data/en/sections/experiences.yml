@@ -17,20 +17,21 @@ experiences:
     # company overview
     overview: Industry Solutions is a global organization of over 16,000 strategic sellers, industry experts, elite engineers, and world-class architects, consultants, and delivery experts who work together to bring Microsoft’s mission of empowerment—and cutting-edge technology—to life for our customers and partners. We are on the front lines of innovation, working side-by-side with customers to drive value across the entirety of their digital transformation journey.
   positions:
-  - designation: Associate Consultant
+  - designation: Data & AI Consultant
     start: Sept 2022
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Participates and leads gathering of customer requirements and constraints.
-    - Participates in project planning and contributes to risks, issues, assumptions and dependencies.
-    - Communicates the business value of planned technology uses and deployments.
-    - Contributes to, and delivers against, a Work Breakdown Structure.
-    - Makes use of, and maintains, Microsoft's Intellectual Property; creates new materials when needed.
-    - Learns and make us of modern technologies, services or approaches based on business demands and industry trends.
-    - Participates and contributes to internal/external community events.
-    - Engages in mentor/mentee relationships to enhance Microsoft's professional/technical capabilities.
+    - Be part of a thriving practice that's constantly looking for ways to improve our customers' experience
+    - Help translate business requirements into technology requirements for inclusion in contracts and/or statements of work
+    - Craft both high-level and detailed design documents and implement innovative solutions using the most recent technologies
+    - Optimize customer's current data solutions and infrastructure
+    - Implement large data platform, business intelligence and advance analytics and multi-tier type solutions
+    - Take a leadership role on projects demonstrating experience handling projects through the entire project lifecycle. This includes running multi-phase/multi-dimensional/multi-resource projects to conclusion while maintaining high customer satisfaction
+    - Continually learn and grow professionally
+    - Mentor other consultants to share your knowledge and experience
+
 - company:
     name: Philips
     url: "https://www.philips.com"
@@ -72,7 +73,7 @@ experiences:
     start: Sep 2018
     end: May 2021
     responsibilities: 
-    - Collaborated with instructor to teach and grade coursework, and answer 150+ students’ questions for the courses Calculus B, Logic and Set Theory, Programming in Python, Data Science Research Methods (R Programming)
+    - Collaborated with instructor to teach and grade coursework, and answer 150+ students' questions for the courses Calculus B, Logic and Set Theory, Programming in Python, Data Science Research Methods (R Programming)
 
 - company:
     name: Eindhoven University of Technology 
