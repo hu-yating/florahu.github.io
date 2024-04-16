@@ -46,7 +46,11 @@ experiences:
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Research on motion-based delirium detection
+    - A review of current literature on existing methods on motion-based delirium detection
+    - Derivation of features indicative for delirium using accelerometer data using the clinical data
+    - Derivation features indicative for delirium using 3D depth camera data using the clinical data
+    - Benchmarking the performance of the motion features for the two different input signals
+    - Documentation of results and report in detail on your scientific and algorithmic work and discuss next steps
 
 - company:
     name: A.S. Watson
@@ -58,10 +62,13 @@ experiences:
     start: August 2021
     end: Nov 2021
     responsibilities:
-    - Performing analyses and presenting results to various stakeholders within the organization;
-    - Giving initiation sessions about Tableau to other departments and new colleagues;
-    - Helping to update certain recurring reports;
-    - Making improvements in e.g. automation of reports, efficiency of processes; 
+    - Support data analysts in conducting analyses
+    - Present analysis results to various stakeholders within the organization
+    - Conduct introductory sessions on Tableau for other departments or new colleagues
+    - Assist in updating certain recurring reports
+    - Have the opportunity to suggest and implement improvements, such as report automation and process efficiency enhancements
+    - Familiarize yourself with our selection tool Adobe Campaign and participate in customer campaign selections
+    - Learn how to conduct effective research within the retail sector, including techniques like A/B testing, control groups, etc.
 
 - company:
     name: Eindhoven University of Technology 
