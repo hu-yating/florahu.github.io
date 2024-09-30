@@ -36,6 +36,9 @@ socialLinks:
 - name: Research Gate
   icon: "fab fa-researchgate"
   url: "https://www.researchgate.net/profile/Ya-Ting-Hu"
+- name: YouTube
+  icon: "fab fa-youtube"
+  url: "https://www.youtube.com/channel/UCMUXgszMSwKSMfzpbRTlvHw"
   
 
 # soft skills
