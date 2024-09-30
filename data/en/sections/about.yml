@@ -50,8 +50,8 @@ url: "https://www.pinterest.com/xhuyating"
 softSkills:
 - type: certification
   name: Azure Data Engineer Associate
-  url: "https://i.pinimg.com/564x/94/81/18/948118795954736543817e089b4327f8.jpg"
-  badge: ""
+  url: "https://learn.microsoft.com/api/credentials/share/en-gb/YaTingHu-1134/A4C89E0204272656?sharingId"
+  badge: "https://i.pinimg.com/564x/94/81/18/948118795954736543817e089b4327f8.jpg"
 - type: certification
   name: Azure Data Scientist Associate
   url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
