@@ -8,7 +8,7 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Associate Technology Consultant
+designation: Data&AI Consultant
 # your company information
 company:
   name: Microsoft
@@ -17,7 +17,7 @@ company:
 #resume: "files/resume.pdf"
 
 # a summary about you
-summary: "I'm an Associate Technology Consultant at Microsoft based in The Netherlands. I obtained my double degree masters in Computer Science and Engineering (Eindhoven University of Technology) and ICT Innovation (KTH Royal Institute of Technology) as part of EIT Digital. My specialisation is in Data Science. I have obtained my bachelor's degree in Data Science. I am interested in digital innovation to transform the future for the better."
+summary: "I am an experienced Data Scientist and AI Consultant with a strong background in machine learning,natural language processing (NLP), and computer vision (CV). I specialize in transforming data into actionable insights and building innovative AI solutions that drive business value. With a deep understanding of the Microsoft Azure ecosystem, I have worked extensively with Azure Machine Learning, Azure Cognitive Services, and Azure Databricks to design, deploy, and scale AI models across industries. My passion lies in solving complex problems through data science, optimizing cloud infrastructures, and promoting Responsible AI practices. I am dedicated to leveraging data to help organizations improve decision-making, enhance operational efficiency, and stay ahead in a data-driven world."
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
@@ -29,7 +29,7 @@ socialLinks:
   url: "https://www.linkedin.com/in/hu-yating"
 - name: Instagram
   icon: "fab fa-instagram"
-  url: "https://www.instagram.com/flora_hu_yating/"
+  url: "https://www.instagram.com/xhuyating/"
 - name: Flickr
   icon: "fab fa-flickr"  
   url: "https://www.flickr.com/photos/hu-yating/"
@@ -42,21 +42,20 @@ socialLinks:
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange
 softSkills:
-- name: Diligent 
-  percentage: 100
-  color: orange
-- name: Inquisitive
-  percentage: 100
-  color: orange
-- name: Analytical
-  percentage: 100
-  color: orange
-- name: Detail-Oriented
-  percentage: 100
-  color: pink
-- name: Problem-Solver
-  percentage: 100
-  color: pink
-- name: Critical
-  percentage: 100
-  color: pink
+- type: certification
+  name: Azure Data Engineer Associate
+  url: "https://learn.microsoft.com/en-gb/users/yatinghu-1134/credentials/a4c89e0204272656?ref=https%3A%2F%2Fwww.linkedin.com%2F"
+  badge: "https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg"
+- type: certification
+  name: Azure Data Scientist Associate
+  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
+  badge: "https://images.credly.com/size/680x680/images/f4bf92ed-8985-40b2-bc07-2f9308780854/kubernetes-security-specialist-logo-examdev.png"
+- type: certification
+  name: Azure AI Engineer Associate
+  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
+  badge: "https://images.credly.com/size/680x680/images/f4bf92ed-8985-40b2-bc07-2f9308780854/kubernetes-security-specialist-logo-examdev.png"
+- type: certification
+  name: Power BI Data Analyst Associate
+  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
+  badge: "https://images.credly.com/size/680x680/images/f4bf92ed-8985-40b2-bc07-2f9308780854/kubernetes-security-specialist-logo-examdev.png"
+
