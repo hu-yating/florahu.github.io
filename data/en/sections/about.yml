@@ -39,6 +39,9 @@ socialLinks:
 - name: YouTube
   icon: "fab fa-youtube"
   url: "https://www.youtube.com/channel/UCMUXgszMSwKSMfzpbRTlvHw"
+- name: Pinterest
+icon: "fab fa-pinterest"
+url: "https://www.pinterest.com/xhuyating"
   
 
 # soft skills
@@ -47,8 +50,8 @@ socialLinks:
 softSkills:
 - type: certification
   name: Azure Data Engineer Associate
-  url: "https://learn.microsoft.com/en-gb/users/yatinghu-1134/credentials/a4c89e0204272656?ref=https%3A%2F%2Fwww.linkedin.com%2F"
-  badge: "https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg"
+  url: "https://i.pinimg.com/564x/94/81/18/948118795954736543817e089b4327f8.jpg"
+  badge: ""
 - type: certification
   name: Azure Data Scientist Associate
   url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
