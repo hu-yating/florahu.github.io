@@ -8,7 +8,7 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Data&AI Consultant
+designation: Data & AI Consultant
 # your company information
 company:
   name: Microsoft
@@ -17,7 +17,7 @@ company:
 #resume: "files/resume.pdf"
 
 # a summary about you
-summary: "I am an experienced Data Scientist and AI Consultant with a strong background in machine learning,natural language processing (NLP), and computer vision (CV). I specialize in transforming data into actionable insights and building innovative AI solutions that drive business value. With a deep understanding of the Microsoft Azure ecosystem, I have worked extensively with Azure Machine Learning, Azure Cognitive Services, and Azure Databricks to design, deploy, and scale AI models across industries. My passion lies in solving complex problems through data science, optimizing cloud infrastructures, and promoting Responsible AI practices. I am dedicated to leveraging data to help organizations improve decision-making, enhance operational efficiency, and stay ahead in a data-driven world."
+summary: "I am an experienced Data Scientist and AI Consultant with a strong background in machine learning, natural language processing (NLP), and computer vision (CV). I specialize in transforming data into actionable insights and building innovative AI solutions that drive business value. With a deep understanding of the Microsoft Azure ecosystem, I have worked extensively with Azure Machine Learning, Azure Cognitive Services, and Azure Databricks to design, deploy, and scale AI models across industries. My passion lies in solving complex problems through data science, optimizing cloud infrastructures, and promoting Responsible AI practices. I am dedicated to leveraging data to help organizations improve decision-making, enhance operational efficiency, and stay ahead in a data-driven world."
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
@@ -39,9 +39,9 @@ socialLinks:
 - name: YouTube
   icon: "fab fa-youtube"
   url: "https://www.youtube.com/channel/UCMUXgszMSwKSMfzpbRTlvHw"
-- name: Pinterest
-icon: "fab fa-pinterest"
-url: "https://www.pinterest.com/xhuyating"
+- name: StackExchange
+  icon: "fab fa-stack-exchange"
+  url: "https://stackexchange.com/users/9986990/ya-ting-hu"
   
 
 # soft skills
