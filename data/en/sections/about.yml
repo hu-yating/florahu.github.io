@@ -47,33 +47,7 @@ socialLinks:
 # soft skills
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange
-softSkills:
-- type: certification
-  name: Azure Data Engineer Associate
-  url: "https://learn.microsoft.com/api/credentials/share/en-gb/YaTingHu-1134/A4C89E0204272656?sharingId"
-  badge: "https://images.credly.com/size/340x340/images/61542181-0e8d-496c-a17c-3d4bf590eda1/azure-data-engineer-associate-600x600.png"
-- type: certification
-  name: Azure Data Scientist Associate
-  url: "https://learn.microsoft.com/api/credentials/share/en-gb/YaTingHu-1134/A4C89E0204272656?sharingId"
-  badge: "https://images.credly.com/size/680x680/images/f4bf92ed-8985-40b2-bc07-2f9308780854/kubernetes-security-specialist-logo-examdev.png"
-- type: certification
-  name: Azure AI Engineer Associate
-  url: "https://learn.microsoft.com/api/credentials/share/en-gb/YaTingHu-1134/A4C89E0204272656?sharingId"
-  badge: "https://images.credly.com/size/680x680/images/f4bf92ed-8985-40b2-bc07-2f9308780854/kubernetes-security-specialist-logo-examdev.png"
-- type: certification
-  name: Power BI Data Analyst Associate
-  url: "https://learn.microsoft.com/api/credentials/share/en-gb/YaTingHu-1134/A4C89E0204272656?sharingId"
-  badge: "https://images.credly.com/size/680x680/images/f4bf92ed-8985-40b2-bc07-2f9308780854/kubernetes-security-specialist-logo-examdev.png"
-- type: certification
-  name: Fabric Analytics Engineer Associate
-  url: "https://learn.microsoft.com/api/credentials/share/en-gb/YaTingHu-1134/A4C89E0204272656?sharingId"
-  badge: "https://images.credly.com/size/680x680/images/f4bf92ed-8985-40b2-bc07-2f9308780854/kubernetes-security-specialist-logo-examdev.png"
-#- type: certification
-  #name: Azure Administrator Associate
-- type: certification
-  name: Azure Security Engineer Associate
-  url: "https://learn.microsoft.com/api/credentials/share/en-gb/YaTingHu-1134/A4C89E0204272656?sharingId"
-  badge: "https://images.credly.com/size/680x680/images/f4bf92ed-8985-40b2-bc07-2f9308780854/kubernetes-security-specialist-logo-examdev.png"
+
 
 
 
