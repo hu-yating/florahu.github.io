@@ -129,3 +129,9 @@ skills:
   summary: "Utilized OpenCV for image processing and computer vision tasks, automating visual data analysis and quality control processes in various applications."
   url: "https://opencv.org/"
 
+- name: Kubernetes
+  logo: "/images/sections/skills/kubernetes.png"
+  summary: "Deployed and managed containerized applications using Kubernetes, automating scaling and load-balancing in production environments, which improved infrastructure resilience and reduced downtime."
+  url: "https://kubernetes.io/"
+
+
