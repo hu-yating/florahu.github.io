@@ -52,7 +52,7 @@ experiences:
 - company:
     name: A.S. Watson
     url: "https://www.aswatson.com"
-    location: Renswoude, The Netherlands
+    location: Vilvoorde, Belgium
     overview: At ASW, we aspire to be the world’s leading health, beauty, and lifestyle retailer, striving to deliver more to our customers, colleagues, and communities.
   positions:
   - designation: CRM Data-Analyst 
@@ -75,6 +75,7 @@ experiences:
     end: May 2021
     responsibilities: 
     - Collaborated with the instructor to teach and grade coursework for over 150 students in courses including Calculus B, Logic and Set Theory, Programming in Python, and Data Science Research Methods.
+
 - company:
     name: Eindhoven University of Technology 
     url: "https://www.tue.nl/en/our-university/departments/built-environment/research/"
