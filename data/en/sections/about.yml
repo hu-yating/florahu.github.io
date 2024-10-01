@@ -64,15 +64,15 @@ softSkills:
   name: Power BI Data Analyst Associate
   url: "https://learn.microsoft.com/api/credentials/share/en-gb/YaTingHu-1134/A4C89E0204272656?sharingId"
   badge: "https://images.credly.com/size/680x680/images/f4bf92ed-8985-40b2-bc07-2f9308780854/kubernetes-security-specialist-logo-examdev.png"
-type: certification
+- type: certification
   name: Fabric Analytics Engineer Associate
   url: "https://learn.microsoft.com/api/credentials/share/en-gb/YaTingHu-1134/A4C89E0204272656?sharingId"
   badge: "https://images.credly.com/size/680x680/images/f4bf92ed-8985-40b2-bc07-2f9308780854/kubernetes-security-specialist-logo-examdev.png"
-type: certification
+- type: certification
   name: Azure Administrator Associate
   url: "https://learn.microsoft.com/api/credentials/share/en-gb/YaTingHu-1134/A4C89E0204272656?sharingId"
   badge: "https://images.credly.com/size/680x680/images/f4bf92ed-8985-40b2-bc07-2f9308780854/kubernetes-security-specialist-logo-examdev.png"
-type: certification
+- type: certification
   name: Azure Security Engineer Associate
   url: "https://learn.microsoft.com/api/credentials/share/en-gb/YaTingHu-1134/A4C89E0204272656?sharingId"
   badge: "https://images.credly.com/size/680x680/images/f4bf92ed-8985-40b2-bc07-2f9308780854/kubernetes-security-specialist-logo-examdev.png"
